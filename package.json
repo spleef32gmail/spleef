@@ -1,0 +1,30 @@
+{
+  "name": "spleef",
+  "version": "1.0.0",
+  "description": "Spleef is a Node.js module for fetching and analyzing weather data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spleef32gmail/spleef"
+  },
+  "dependencies": {
+	  "potapovvlad": "1.0.0",
+"farmaniyah": "1.0.0",
+"susanmartin": "1.0.0",
+"mode-tobogunbar": "1.0.0",
+"pologovsemen": "1.0.0",
+"func-pp06": "1.0.0",
+"sqr-trumposwere": "1.0.0",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spleef32gmail/spleef/issues"
+  },
+  "homepage": "https://github.com/spleef32gmail/spleef#readme"
+}
